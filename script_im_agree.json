@@ -1,0 +1,82 @@
+{
+ "output": "mee_reel_im_agree.mp4",
+ "logo": "assets/logo_white.png",
+ "music": true,
+ "scenes": [
+  {
+   "type": "hook",
+   "dur": 3.4,
+   "kicker": "Bạn có hay nói",
+   "title": "câu này",
+   "highlight": "KHÔNG?",
+   "quote": "I'm agree.",
+   "character": "assets/char_woman.png"
+  },
+  {
+   "type": "wrong",
+   "dur": 4.6,
+   "label": "NGHE LÀ BIẾT SAI",
+   "quote": "I am agree.",
+   "strike": "am",
+   "note": "\"agree\" là động từ, bỏ \"am\" đi",
+   "sub": "Vậy nói sao?"
+  },
+  {
+   "type": "options",
+   "dur": 5.8,
+   "title": "Nói vậy mới",
+   "highlight": "ĐÚNG",
+   "items": [
+    "I agree.",
+    "I totally agree.",
+    "I agree with you."
+   ],
+   "note": "Không đồng ý thì nói \"I don't agree.\""
+  },
+  {
+   "type": "compare",
+   "dur": 6.0,
+   "title": "Mẹo",
+   "highlight": "NHỚ NHANH",
+   "left": {
+    "head": "I'm +",
+    "sub": "tính từ",
+    "ex": [
+     "I'm sure.",
+     "I'm ready."
+    ]
+   },
+   "right": {
+    "head": "I +",
+    "sub": "động từ",
+    "ex": [
+     "I agree.",
+     "I think so."
+    ]
+   },
+   "note": "I'm sure. I agree with you."
+  },
+  {
+   "type": "quiz",
+   "dur": 5.2,
+   "title": "Thử",
+   "highlight": "1 CÂU",
+   "q": "She ____ with me.",
+   "options": [
+    "is agree",
+    "agrees"
+   ],
+   "answer": 1,
+   "reveal": 2.8,
+   "character": "assets/char_man.png"
+  },
+  {
+   "type": "cta",
+   "dur": 4.6,
+   "line1": "Luyện nói",
+   "highlight": "CÓ NGƯỜI SỬA",
+   "sub": "Skool Community và Group miễn phí của MEE",
+   "button": "LINK Ở CAPTION"
+  }
+ ]
+}
