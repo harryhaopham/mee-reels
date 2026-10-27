@@ -11,3 +11,4 @@ Ghi chú lỗi đã gặp:
 | 20/10/2026 | He don't → He doesn't | mee_reel_he_dont.mp4 | https://raw.githubusercontent.com/harryhaopham/mee-reels/main/mee_reel_he_dont.mp4 | 6ad74cc03935fb9401230b1a / scheduled 20/10 19:00 | https://docs.google.com/document/d/1cKPKcisClqNL4eho2zHSgXGXwtKByTgfV2ASgCu0WZo/edit |
 - 20/10: python3 hệ thống có PIL hỏng (dist-packages), pip install không đủ. Dùng venv: `python3 -m venv /tmp/venv && /tmp/venv/bin/pip install numpy pillow` rồi chạy `/tmp/venv/bin/python scripts/mee_reel.py ...`.
 - 20/10: assets/ (logo, nhân vật) đã có sẵn trong repo, không cần mở Canva.
+| 27/10/2026 | open the light → turn on the light | mee_reel_turn_on_light.mp4 | https://raw.githubusercontent.com/harryhaopham/mee-reels/main/mee_reel_turn_on_light.mp4 | (điền sau) | (điền sau) |

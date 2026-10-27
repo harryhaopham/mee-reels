@@ -1,0 +1,13 @@
+{
+ "output": "mee_reel_turn_on_light.mp4",
+ "logo": "assets/logo_white.png",
+ "music": true,
+ "scenes": [
+  {"type":"hook","dur":3.4,"kicker":"Bạn có hay nói","title":"câu này","highlight":"KHÔNG?","quote":"Open the light.","character":"assets/char_woman.png"},
+  {"type":"wrong","dur":4.6,"label":"NGHE LÀ BIẾT SAI","quote":"Open the light.","strike":"Open","note":"Bật đèn thì dùng \"turn on\", không dùng \"open\"","sub":"Vậy nói sao?"},
+  {"type":"options","dur":5.8,"title":"Nói vậy mới","highlight":"ĐÚNG","items":["Turn on the light.","Turn on the fan.","Turn on the TV."],"note":"Đèn, quạt, TV đều dùng turn on"},
+  {"type":"compare","dur":6.0,"title":"Mẹo","highlight":"NHỚ NHANH","left":{"head":"turn on / off","sub":"đèn, quạt, TV","ex":["Turn off the light.","Turn on the TV."]},"right":{"head":"open / close","sub":"cửa, cửa sổ","ex":["Open the door.","Close the window."]},"note":"Thiết bị thì turn on, off"},
+  {"type":"quiz","dur":5.2,"title":"Thử","highlight":"1 CÂU","q":"Please ____ the light.","options":["open","turn off"],"answer":1,"reveal":2.8,"character":"assets/char_man.png"},
+  {"type":"cta","dur":4.6,"line1":"Luyện nói","highlight":"CÓ NGƯỜI SỬA","sub":"Skool Community và Group miễn phí của MEE","button":"LINK Ở CAPTION"}
+ ]
+}
