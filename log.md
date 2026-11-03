@@ -12,4 +12,5 @@ Ghi chú lỗi đã gặp:
 - 20/10: python3 hệ thống có PIL hỏng (dist-packages), pip install không đủ. Dùng venv: `python3 -m venv /tmp/venv && /tmp/venv/bin/pip install numpy pillow` rồi chạy `/tmp/venv/bin/python scripts/mee_reel.py ...`.
 - 20/10: assets/ (logo, nhân vật) đã có sẵn trong repo, không cần mở Canva.
 | 27/10/2026 | open the light → turn on the light | mee_reel_turn_on_light.mp4 | https://raw.githubusercontent.com/harryhaopham/mee-reels/main/mee_reel_turn_on_light.mp4 | 6ae0859188ceacaed1fede67 / scheduled 27/10 19:00 | https://docs.google.com/document/d/13QjbTsTca_8NgtF7bQAYKtcqIYt-AGo-rWYLXGsYawA/edit (sheet hàng 22) |
-| 03/11/2026 | I have 30 years old → I'm 30 | mee_reel_im_30.mp4 | https://raw.githubusercontent.com/harryhaopham/mee-reels/main/mee_reel_im_30.mp4 | (đang cập nhật) | (đang cập nhật) (sheet hàng 25) |
+| 03/11/2026 | I have 30 years old → I'm 30 | mee_reel_im_30.mp4 | https://raw.githubusercontent.com/harryhaopham/mee-reels/main/mee_reel_im_30.mp4 | 6ae9c0113efac89b59f4174f / scheduled 03/11 19:00 | https://docs.google.com/document/d/1aRnMzOEwuWsYNel9NDXHQ2B5cFzUsYpStmQJGAsf6dI/edit (sheet hàng 25) |
+- 03/11: `git push origin main` từ nhánh claude/... không đẩy gì; phải `git push origin HEAD:main`. Đừng curl link raw trước khi push xong (raw cache 404 vài phút).
